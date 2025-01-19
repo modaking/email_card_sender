@@ -2,10 +2,11 @@
 
 This is a python script to send emails. It supports sending emails to multiple people. Also sends html cards in the email.
 
-#Requirements
-smtplib
-email
-os
+Requirements
+
+-smtplib
+-email
+-os
 
 This script first prompts user for their email address and password.
 
