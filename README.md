@@ -9,6 +9,7 @@ Requirements
 -os
 
 This script first prompts user for their email address and password.
+
 Note that if using gmail passwords you may need to enable allow unsecure apps from yor gmail account security settings(security risk) or enable 2-factor authentication(2-FA) then create app password for mail app under others where you will type python script. App password requires 2FA.  
 
 Generate the 16 character password and copy it to use as email password. 
